@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm JTP0501 👋
 
-<!--
-**JTP0501/JTP0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm alright.
 
-Here are some ideas to get you started:
+- 📫 How to reach me: [Email](mailto:josh.patinof@gmail.com)
+- ⚡ Fun fact: I love playing chess.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+- **Languages:** Python, C, C++
+
+## Projects
+Here are a few projects I've worked on recently:
+...
+
+## Connect with Me
+- [GitHub](https://github.com/JTP0501)
+
+Thank you for visiting my profile!
