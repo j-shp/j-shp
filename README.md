@@ -1,4 +1,4 @@
-# Hi there, I'm JTP0501 👋
+# Hi there, I'm Josh 👋
 
 ## About Me
 I'm alright.
